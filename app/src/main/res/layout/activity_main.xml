@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@android:color/holo_green_light"
     tools:context=".MainActivity">
 
     <TextView
@@ -20,7 +21,7 @@
         android:id="@+id/editTextName"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:background="@android:color/holo_green_light"
+        android:background="@color/cardview_light_background"
         android:ems="10"
         android:inputType="textPersonName"
         android:minHeight="48dp"
