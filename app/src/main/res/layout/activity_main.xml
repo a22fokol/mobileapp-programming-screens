@@ -10,7 +10,7 @@
         android:id="@+id/textViewName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome"
+        android:text="Hi. Welcome"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -18,12 +18,12 @@
 
     <EditText
         android:id="@+id/editTextName"
-        android:text="Name"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:minHeight="48dp"
         android:ems="10"
         android:inputType="textPersonName"
+        android:text="Name"
         tools:layout_editor_absoluteX="88dp"
         tools:layout_editor_absoluteY="232dp"
         app:layout_constraintBottom_toBottomOf="parent"

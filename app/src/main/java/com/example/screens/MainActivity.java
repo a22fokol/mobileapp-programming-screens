@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         sendButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this,  MainActivity.class);
+                Intent intent = new Intent(MainActivity.this,  MainActivity2.class);
 
                 EditText nameEdit = findViewById(R.id.editTextName);
                 String name = nameEdit.getText().toString();

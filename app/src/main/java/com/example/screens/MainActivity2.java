@@ -19,7 +19,7 @@ public class MainActivity2 extends AppCompatActivity {
             // Do something with the name and number
 
 
-            TextView nameView = findViewById(R.id.textViewName);
+            TextView nameView = findViewById(R.id.textViewNameShow);
             nameView.setText(name);
         }
     }
