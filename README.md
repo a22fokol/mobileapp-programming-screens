@@ -2,8 +2,8 @@
 # Rapport
 
 Jag har skapat en textview , editText och en button på activity_main.xml
-och har addat färger på alla items genom att också adda färger på 
-activity background. Jag har också skapat en textview på activity_main2.xml 
+och har addat färger på alla items genom att också adda färger på
+activity background. Jag har också skapat en textview på activity_main2.xml
 och har addat färger på activity_main2.xml background. slutsatsen är att
 activity1 skickar data till activity2. Jag har addat två screenshoot och
 några koder om mitt arbete i rapporten se nedan.
