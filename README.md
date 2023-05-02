@@ -34,6 +34,6 @@ några koder om mitt arbete i rapporten se nedan.
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](Screenshoot_screen00.png)
-![](Screenshoot_screen01.png)
+![](Screenshot_20230502_11.png)
+![](Screenshot_20230502_12.png)
 
